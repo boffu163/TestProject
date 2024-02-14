@@ -9,9 +9,10 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(https://img.freepik.com/free-photo/server-racks-computer-network-security-server-room-data-center-d-render-dark-blue-generative-ai_1258-150894.jpg?w=1380&t=st=1707925462~exp=1707926062~hmac=a91afcdae8019c17c26e74cf2189504f8c5562954f8ef7ffde471b1846669957);
     background-size: cover;
     display: flex;
+    color: white;
 }
 
 .header_left {
