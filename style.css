@@ -99,6 +99,21 @@ section h1 {
     cursor: pointer;
 }
 
+.vk:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.tg:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.email:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
 footer {
     width: 100vw;
     height: 100px;
